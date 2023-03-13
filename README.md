@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekby
+- 👋 Hi, I’m @ekby, Beijing University of Technology
 
 - 📫 How to reach me: ekbyjarpen@qq.com
 
