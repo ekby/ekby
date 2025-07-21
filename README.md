@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @ekby, Beijing University of Technology
+- Xia Runcheng
 
-- 📫 How to reach me: ekbyjarpen@qq.com
+- Email: xiaruncheng@foxmail.com
+  
+- Edu: Beijing University of Technology(Bachelor, 2020-2024), Imperial College London(Master, 2025-2026)
+
+- Pub: (The impact of fake online reviews on customer satisfaction: an empirical study on JD.com(SSCI, EI))[https://link.springer.com/article/10.1007/s10660-024-09865-y]
+
+
 
 
 
