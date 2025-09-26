@@ -4,7 +4,7 @@
   
 - **Education:**
 
-  Imperial College London(Master, 2025-2026)
+  Imperial College London(MSc, 2025-2026)
   
   Beijing University of Technology(Bachelor, 2020-2024)
 
